@@ -65,3 +65,16 @@
   - 🎵 Song  
 
 ---
+
+**📅 Date:** 20-04-2026  
+**📖 Topic:** Creating Class Object and Access Modifier
+
+---
+
+## 🎥 Video Resource
+[![Watch the video](https://img.youtube.com/vi/lWFzm8qIR1c/0.jpg)](https://www.youtube.com/watch?v=lWFzm8qIR1c&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=4)
+
+---
+
+[Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day02/Day02Example1.java)
+[Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day02/Day02Example2.java)
