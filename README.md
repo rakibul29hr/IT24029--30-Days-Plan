@@ -45,3 +45,21 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day3/Day3Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day3/Day3Example2.java)
+
+## 🗓️ Day-04
+## **📅 Date:** 22-04-2026  
+## **📖 Topic:** Inheritance and Polymorphism
+
+---
+
+## 🎥 Video Resource  
+
+[![Watch the video](https://img.youtube.com/vi/j_VA2Rp6jM0/0.jpg)](https://www.youtube.com/watch?v=j_VA2Rp6jM0&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=6)
+---
+
+[![Watch the video](https://img.youtube.com/vi/bLke13zY4rg/0.jpg)](https://www.youtube.com/watch?v=bLke13zY4rg&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=7)
+
+---
+
+### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example1.java)
+### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example2.java)
