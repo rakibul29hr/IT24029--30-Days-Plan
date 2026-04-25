@@ -59,6 +59,7 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example2.java)
+
 ## 🗓️ Day-05
 ## **📅 Date:** 23-04-2026  
 ## **📖 Topic:** Interface Abstract and Inner Class
@@ -89,3 +90,19 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day6/Day6Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day6/Day6Example2.java)
+
+## 🗓️ Day-07
+## **📅 Date:** 25-04-2026  
+## **📖 Topic:** Working with List and Exploring Sets
+
+---
+
+## 🎥 Video Resource  
+
+[![Watch the video](https://img.youtube.com/vi/q-5D9Z9BCVI/0.jpg)](https://www.youtube.com/watch?v=q-5D9Z9BCVI)
+[![Watch the video](https://img.youtube.com/vi/XDw-BkAZYmY/0.jpg)](https://www.youtube.com/watch?v=XDw-BkAZYmY)
+
+---
+
+### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day7/Day7Example1.java)
+### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day7/Day7Example2.java)
