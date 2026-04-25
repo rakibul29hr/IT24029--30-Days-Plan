@@ -63,3 +63,20 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day4/Day4Example2.java)
+## 🗓️ Day-05
+## **📅 Date:** 23-04-2026  
+## **📖 Topic:** Interface Abstract and Inner Class
+
+---
+
+## 🎥 Video Resource  
+
+[![Watch the video](https://img.youtube.com/vi/1SXyi3DK-88/0.jpg)](https://www.youtube.com/watch?v=1SXyi3DK-88&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=8)
+---
+
+[![Watch the video](https://img.youtube.com/vi/lsJ9QjJPbx8/0.jpg)](https://www.youtube.com/watch?v=lsJ9QjJPbx8&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=9)
+
+---
+
+### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day5/Day5Example1.java)
+### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day5/Day5Example2.java)
