@@ -106,3 +106,19 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day7/Day7Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day7/Day7Example2.java)
+
+## 🗓️ Day-08
+## **📅 Date:** 26-04-2026  
+## **📖 Topic:** Queue and HashTree
+
+---
+
+## 🎥 Video Resource  
+
+[![Watch the video](https://img.youtube.com/vi/PccU1wAdnlM/0.jpg)](https://www.youtube.com/watch?v=PccU1wAdnlM)
+[![Watch the video](https://img.youtube.com/vi/ZarOdaT7P2k/0.jpg)](https://www.youtube.com/watch?v=ZarOdaT7P2k)
+
+---
+
+### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day8/Day8Example1.java)
+### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day8/Day8Example2.java)
