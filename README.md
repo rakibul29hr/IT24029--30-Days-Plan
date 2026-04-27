@@ -122,3 +122,19 @@
 
 ### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day8/Day8Example1.java)
 ### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day8/Day8Example2.java)
+
+## 🗓️ Day-09
+## **📅 Date:** 27-04-2026  
+## **📖 Topic:** Task Management and File Introduction
+
+---
+
+## 🎥 Video Resource  
+
+[![Watch the video](https://img.youtube.com/vi/63c8XmiOrzo/0.jpg)](https://www.youtube.com/watch?v=63c8XmiOrzo&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=16)
+[![Watch the video](https://img.youtube.com/vi/gtmBSl10DvY/0.jpg)](https://www.youtube.com/watch?v=gtmBSl10DvY&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj&index=15)
+
+---
+
+### [Example1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day9/Day9Example1.java)
+### [Example2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day9/Day9Example2.java)
