@@ -220,3 +220,18 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day12/Day12Example2.java)
 
 ---
+# 🗓️ Day 13 — Using TimeZone in Java
+
+📅 **Date:** 1-05-2026  
+📖 **Topic:**  Using TimeZone in Java
+### 🎥 Videos
+<a href="https://www.youtube.com/watch?v=apUcrW2Tmd8">
+  <img src="https://img.youtube.com/vi/apUcrW2Tmd8/0.jpg" width="200">
+</a>
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day13/Day13Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day13/Day13Example2.java)
+
+---
