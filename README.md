@@ -203,3 +203,20 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day11/Day11Example2.java)
 
 ---
+
+---
+# 🗓️ Day 12 — Formatting Dates
+
+📅 **Date:** 30-04-2026  
+📖 **Topic:**  Formatting Dates
+### 🎥 Videos
+<a href="https://www.youtube.com/watch?v=ieveCaLfrlE">
+  <img src="https://img.youtube.com/vi/ieveCaLfrlE/0.jpg" width="200">
+</a>
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day12/Day12Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day12/Day12Example2.java)
+
+---
