@@ -235,3 +235,18 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day13/Day13Example2.java)
 
 ---
+# 🗓️ Day 14 — Parsing Dates from Strings
+
+📅 **Date:** 2-05-2026  
+📖 **Topic:**  Parsing Dates from Strings
+### 🎥 Videos
+<a href="https://www.youtube.com/watch?v=wNNcI8ktP34">
+  <img src="https://img.youtube.com/vi/wNNcI8ktP34/0.jpg" width="200">
+</a>
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day14/Day14Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day14/Day14Example2.java)
+
+---
