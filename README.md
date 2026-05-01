@@ -185,4 +185,21 @@
 - 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day10/Day10Example1.java)
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day10/Day10Example2.java)
 
+
+---
+# 🗓️ Day 11 — Introduction to Date, Local Time and Zoned Time
+
+📅 **Date:** 29-04-2026  
+📖 **Topic:** Introduction to Date, Local Time and Zoned Time
+
+### 🎥 Videos
+<a href="https://www.youtube.com/watch?v=rs1WKrln-9U">
+  <img src="https://img.youtube.com/vi/rs1WKrln-9U/0.jpg" width="200">
+</a>
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day11/Day11Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day11/Day11Example2.java)
+
 ---
