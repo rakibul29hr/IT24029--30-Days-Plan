@@ -263,3 +263,15 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day15/Day15Exmaple2.java)
 
 ---
+# 🗓️ Day 16— Constructor Chaining
+
+📅 **Date:** 2-05-2026  
+📖 **Topic:**  this() constructor chaining and super() constructor chaining
+
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day16/Day16Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day16/Day16Example2.java)
+
+---
