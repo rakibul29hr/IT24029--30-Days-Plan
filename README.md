@@ -285,3 +285,14 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day17/Day17Example2.java)
 
 ---
+---
+# 🗓️ Day 18— Immutable Objects
+📅 **Date:** 6-05-2026  
+📖 **Topic:** Immutable class design, final fields, Defensive copying
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day18/Day18Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day18/Day18Example2.java)
+
+---
