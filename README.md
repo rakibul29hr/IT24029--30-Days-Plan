@@ -296,3 +296,16 @@
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day18/Day18Example2.java)
 
 ---
+
+# 🗓️ Day 19— Encapsulation Best Practices
+📅 **Date:** 7-05-2026  
+📖 **Topic:** Least privilege principle and Data security design
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day19/Day19Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day19/Day19Example2.java)
+
+  
+
+---
