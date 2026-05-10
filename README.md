@@ -253,7 +253,7 @@
 ---
 # 🗓️ Day 15 — Four Piller of OOP
 
-📅 **Date:** 2-05-2026  
+📅 **Date:** 3-05-2026  
 📖 **Topic:**  Four Piller of OOP
 
 
@@ -265,13 +265,23 @@
 ---
 # 🗓️ Day 16— Constructor Chaining
 
-📅 **Date:** 2-05-2026  
+📅 **Date:** 4-05-2026  
 📖 **Topic:**  this() constructor chaining and super() constructor chaining
-
 
 
 ### 💻 Code Examples
 - 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day16/Day16Example1.java)
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day16/Day16Example2.java)
+
+---
+---
+# 🗓️ Day 17— Object copying
+📅 **Date:** 5-05-2026  
+📖 **Topic:** reference copy, shallow copy, and deep copy
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day17/Day17Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day17/Day17Example2.java)
 
 ---
