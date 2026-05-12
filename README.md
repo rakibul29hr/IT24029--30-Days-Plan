@@ -346,3 +346,15 @@
   
 
 ---
+# 🗓️ Day 22— Interface
+📅 **Date:** 10-05-2026  
+📖 **Topic:** Deep dive into interface and Interface design
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day23/Day23Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day23/Day23Example2.java)
+
+  
+
+---
