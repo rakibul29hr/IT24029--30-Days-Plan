@@ -316,8 +316,32 @@
 
 
 ### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day20/Day20Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day20/Day20Example2.java)
+
+  
+
+---
+# 🗓️ Day 21— Polymorphism Advanced
+📅 **Date:** 9-05-2026  
+📖 **Topic:** Upcasting, Downcasting, Design Pattern 
+
+
+### 💻 Code Examples
 - 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day21/Day21Example1.java)
 - 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day21/Day21Example2.java)
+
+  
+
+---
+# 🗓️ Day 22— Abstraction Fundamentals
+📅 **Date:** 10-05-2026  
+📖 **Topic:** Hiding implementation, abstract
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day22/Day22Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day22/Day22Example2.java)
 
   
 
