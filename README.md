@@ -309,3 +309,16 @@
   
 
 ---
+
+# 🗓️ Day 20— Polymorphism Fundamentals
+📅 **Date:** 7-05-2026  
+📖 **Topic:** Method Overloading, Overriding, Dispatch  
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day20/Day20Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day20/Day20Example2.java)
+
+  
+
+---
