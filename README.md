@@ -371,3 +371,16 @@
   
 
 ---
+---
+# 🗓️ Day 25— Utility Method
+📅 **Date:** 12-05-2026  
+📖 **Topic:** Hashing , cloning (shallow, Deep) 
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day25/Day25Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day25/Day25Example2.java)
+
+  
+
+---
