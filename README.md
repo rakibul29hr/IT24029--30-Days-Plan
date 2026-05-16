@@ -397,3 +397,15 @@
   
 
 ---
+# 🗓️ Day 27— SOLID principle
+📅 **Date:** 14-05-2026  
+📖 **Topic:** SOLID principle
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day27/Day27Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day27/Day27Example2.java)
+
+  
+
+---
