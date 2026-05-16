@@ -383,4 +383,17 @@
 
   
 
+
+---
+# 🗓️ Day 26— Static and Nested Calss
+📅 **Date:** 13-05-2026  
+📖 **Topic:** Static and nested class 
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day26/Day26Example1.java)
+- 🔗 [Example 2](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day26/Day26Example2.java)
+
+  
+
 ---
