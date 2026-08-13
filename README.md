@@ -421,8 +421,8 @@
 
 ---
 ---
-# 🗓️ Day 28— Implementing Stack
-📅 **Date:** 15-05-2026  
+# 🗓️ Day 29— Implementing Stack
+📅 **Date:** 16-05-2026  
 📖 **Topic:**Stack
 
 
@@ -431,3 +431,17 @@
   
 
 ---
+---
+# 🗓️ Day 30— Implementing Queue
+📅 **Date:** 17-05-2026  
+📖 **Topic:**Queue
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day30/MyQueue.java)
+- 
+
+
+  ## Maintained By
+  ### Md. Rakibul Islam
+  #### IT-24029
