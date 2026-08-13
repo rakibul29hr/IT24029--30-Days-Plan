@@ -409,3 +409,14 @@
   
 
 ---
+---
+# 🗓️ Day 28— Implementing LinkedList
+📅 **Date:** 15-05-2026  
+📖 **Topic:** Singly Linked List
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day28/MyLinkedList.java)
+  
+
+---
