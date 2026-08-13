@@ -420,3 +420,14 @@
   
 
 ---
+---
+# 🗓️ Day 28— Implementing Stack
+📅 **Date:** 15-05-2026  
+📖 **Topic:**Stack
+
+
+### 💻 Code Examples
+- 🔗 [Example 1](https://github.com/rakibul29hr/IT24029--30-Days-Plan/blob/main/Day29/MyStack.java)
+  
+
+---
